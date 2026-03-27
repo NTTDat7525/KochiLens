@@ -69,7 +69,7 @@
   - Sơ đồ Use Case admin [Click here](ucAdmin.png)
   - Sơ đồ Use Case Customer [Click here](ucCustomer.png)
   - Sơ đồ Use Case Warehouse Staff [Click here](ucWarehouseStaff.png)
-- Sơ đồ Activity: [Click here](image.png)  
+- Sơ đồ Activity: [Click here](Activity.png)  
 
 ---
 
